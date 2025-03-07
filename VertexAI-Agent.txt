@@ -1,0 +1,7 @@
+Vertex AI Agent Builder:
+
+Vertex AI Agent Builder lets developers, even those with limited machine learning skills, tap into the power of Google's foundation models, search expertise, and conversational AI technologies to create enterprise-grade generative AI applications.
+
+Platforms Provided by Vertex Agent Builder:
+    -- Vertex AI Agents
+    -- Vertex AI Search
